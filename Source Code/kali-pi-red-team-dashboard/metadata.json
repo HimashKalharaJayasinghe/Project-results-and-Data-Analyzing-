@@ -1,0 +1,6 @@
+{
+  "name": "Kali-Pi Red Team Dashboard",
+  "description": "Simulated red team Wi-Fi, cellular, and Bluetooth security penetration testing workspace and training interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
